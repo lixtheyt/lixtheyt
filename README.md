@@ -1,5 +1,4 @@
-## Hi there 👋
-
+!(Badge)[https://github-readme-stats.hackclub.dev/api/wakatime?username=39894&api_domain=hackatime.hackclub.com&theme=shadow_blue&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8]
 <!--
 **lixtheyt/lixtheyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
