@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=0:512BD4,100:0078D6&text=lix&fontColor=ffffff&fontSize=68&fontAlignY=36&desc=developer&descSize=20&descAlignY=58&animation=fadeIn" alt="lix" width="100%">
+<img src="assets/header.svg" alt="lix" width="100%">
 
 <a href="https://github.com/lixtheyt">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=900&color=0078D6&center=true&vCenter=true&width=720&height=60&lines=hi%2C+I'm+lix;I+build+things+I'd+use+myself;software+first%2C+hardware+sometimes" alt="hi, I'm lix">
@@ -29,7 +29,7 @@ Most of this was built during [Stardance](https://stardance.hackclub.com/@lix/pr
 ![Projects](https://img.shields.io/badge/6-projects-2496ED?style=for-the-badge)
 ![Ships](https://img.shields.io/badge/4-ships-008000?style=for-the-badge)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:512BD4,100:0078D6" alt="" width="100%">
+<img src="assets/divider.svg" alt="" width="100%">
 
 </div>
 
@@ -37,20 +37,10 @@ Most of this was built during [Stardance](https://stardance.hackclub.com/@lix/pr
 
 <div align="center">
 
-<a href="https://github.com/lixtheyt/Helyx"><img src="assets/helyx.svg" alt="Helyx" width="49%"></a>
-<a href="https://github.com/lixtheyt/ThetaNexus"><img src="assets/thetanexus.svg" alt="ThetaNexus" width="49%"></a>
+<a href="https://github.com/lixtheyt/Helyx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/helyx-dark.svg"><img src="assets/helyx-light.svg" alt="Helyx" width="49%"></picture></a>
+<a href="https://github.com/lixtheyt/ThetaNexus"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/thetanexus-dark.svg"><img src="assets/thetanexus-light.svg" alt="ThetaNexus" width="49%"></picture></a>
 
-<a href="https://github.com/lixtheyt/Helyx"><img src="https://raw.githubusercontent.com/lixtheyt/Helyx/main/Helyx/assets/hero.gif" alt="Helyx in action" width="49%"></a>
-<a href="https://github.com/lixtheyt/ThetaNexus"><img src="https://raw.githubusercontent.com/lixtheyt/ThetaNexus/main/ThetaNexus/assets/hero.gif" alt="ThetaNexus in action" width="49%"></a>
-
-[![Helyx release](https://img.shields.io/github/v/release/lixtheyt/Helyx?style=for-the-badge&color=0078D6&label=helyx)](https://github.com/lixtheyt/Helyx/releases/latest)
-[![Helyx stars](https://img.shields.io/github/stars/lixtheyt/Helyx?style=for-the-badge&color=FFD700&label=stars)](https://github.com/lixtheyt/Helyx/stargazers)
-[![Helyx downloads](https://img.shields.io/github/downloads/lixtheyt/Helyx/total?style=for-the-badge&color=008000&label=downloads)](https://github.com/lixtheyt/Helyx/releases)
-[![ThetaNexus release](https://img.shields.io/github/v/release/lixtheyt/ThetaNexus?style=for-the-badge&color=2496ED&label=thetanexus)](https://github.com/lixtheyt/ThetaNexus/releases/latest)
-[![ThetaNexus stars](https://img.shields.io/github/stars/lixtheyt/ThetaNexus?style=for-the-badge&color=FFD700&label=stars)](https://github.com/lixtheyt/ThetaNexus/stargazers)
-[![ThetaNexus downloads](https://img.shields.io/github/downloads/lixtheyt/ThetaNexus/total?style=for-the-badge&color=008000&label=downloads)](https://github.com/lixtheyt/ThetaNexus/releases)
-
-<a href="https://github.com/lixtheyt/mediapad"><img src="assets/mediapad.svg" alt="MediaPad" width="99%"></a>
+<a href="https://github.com/lixtheyt/mediapad"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/mediapad-dark.svg"><img src="assets/mediapad-light.svg" alt="MediaPad" width="99%"></picture></a>
 
 </div>
 
@@ -62,7 +52,7 @@ Most of this was built during [Stardance](https://stardance.hackclub.com/@lix/pr
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:512BD4,100:0078D6" alt="" width="100%">
+<img src="assets/divider.svg" alt="" width="100%">
 
 </div>
 
@@ -136,7 +126,7 @@ Most of this was built during [Stardance](https://stardance.hackclub.com/@lix/pr
 ![PrusaSlicer](https://img.shields.io/badge/PrusaSlicer-FA6831?style=for-the-badge)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:512BD4,100:0078D6" alt="" width="100%">
+<img src="assets/divider.svg" alt="" width="100%">
 
 </div>
 
@@ -144,13 +134,13 @@ Most of this was built during [Stardance](https://stardance.hackclub.com/@lix/pr
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=lixtheyt&theme=dark&hide_border=true&background=0D1117&ring=0078D6&fire=512BD4&currStreakLabel=0078D6&sideLabels=E6EDF3&dates=8B949E" alt="Commit streak">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=lixtheyt&theme=dark&hide_border=true&background=0D1117&ring=0078D6&fire=512BD4&currStreakLabel=0078D6&sideLabels=E6EDF3&dates=8B949E"><img src="https://streak-stats.demolab.com?user=lixtheyt&hide_border=true&ring=0078D6&fire=512BD4&currStreakLabel=0078D6" alt="Commit streak"></picture>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lixtheyt&theme=github_dark" alt="Contributions over time" width="100%">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lixtheyt&theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lixtheyt&theme=github" alt="Contributions over time" width="100%"></picture>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lixtheyt&theme=github_dark" alt="Stats" height="180">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lixtheyt&theme=github_dark" alt="Most committed language" height="180">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lixtheyt&theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lixtheyt&theme=github" alt="Stats" height="180"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lixtheyt&theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lixtheyt&theme=github" alt="Most committed language" height="180"></picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:512BD4,100:0078D6" alt="" width="100%">
+<img src="assets/footer.svg" alt="" width="100%">
 
 </div>
